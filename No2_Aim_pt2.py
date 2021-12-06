@@ -19,4 +19,5 @@ for i in cords:
         vertical = vertical + (aim * int(x[1]))
 
 final = vertical * horizontal
-print("Horizontal position is ", horizontal, ", vertical is ", vertical,", aim is ", aim, ". The final result is ", final)
+print("Horizontal position is ", horizontal, ", vertical is ", vertical, ", aim is ", aim, ".")
+print("The final result is ", final, ".")
